@@ -6,3 +6,7 @@ shields.io:
 
 if the description part of the Org link is itself another link
 [[file:myimg.jpg][file:thumb.jpg]]
+
+#+CAPTION: A black cat stalking a spider
+#+ATTR_HTML: :alt cat/spider image :title Action! :align right
+[[myimg.jpg]]
